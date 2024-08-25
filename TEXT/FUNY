@@ -1,1 +1,12 @@
-ntck&dev_tag%
+{
+    "players":{
+        "ntck":{
+            "dev_tag":true,
+            "funy_tag":true
+        },
+        "ntck2":{
+            "dev_tag":true,
+            "funy_tag":true
+        }
+    }
+}
